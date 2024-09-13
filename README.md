@@ -7,7 +7,6 @@ My name is **Romi Wahyudi Hasibuan**, and I am passionate about **mathematics, d
 ## 🚀 What I'm Currently Up To:
 - 🌱 **Learning**: I'm currently enhancing my machine learning skills at **Bangkit Academy**, where I'm diving deep into model building, algorithms, and real-world applications of AI.
 - 🤖 **Exploring**: I am also an assistant lecturer in Natural Language Processing, making sense of the connection between human languages and artificial intelligence.
-- 💡 **Expanding**: My knowledge in data science, statistics, and how math powers intelligent systems.
 
 ---
 
@@ -18,12 +17,12 @@ My name is **Romi Wahyudi Hasibuan**, and I am passionate about **mathematics, d
 
 ---
 
-## 🌍 What I Dream About:
-- 💻 Building impactful AI solutions that make the world smarter.
-- 🚀 Starting my own **tech company** focused on machine learning and AI to solve real-world problems.
-- 🌏 Traveling the world and experiencing diverse cultures—Cappadocia, Turkey, is at the top of my list!
-
----
+<p align="left">
+<a href="https://github.com/penuliscode">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=romyhsb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romyhsb&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ## 💼 Let's Connect!
 Feel free to reach out if you're interested in machine learning, data science, or just want to chat about tech and innovation! Let's learn and grow together.
